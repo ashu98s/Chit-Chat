@@ -1,7 +1,7 @@
 ## Chat/Messaging App Light and Dark Theme - Flutter UI
 I am going to build a messaging/chat app #ui using #flutter that runs both Android and iOS devices and also has a dark and light theme. I created in total 4 screens all of which support both Dark Theme and Light Theme. At first, I designed a welcome screen that contains an image with a tagline and a skip button. Once the user presses, it transfers to the Sign-in or Sign-up screen. The last two screens are the main screen, Chats screens which shows the list of people you are chatting with, at the end message screen support text message, audio message, and video messages.
 
-### Complete UI Contains
+### Complete UI Contains 
 
 ► Splash Screen
 ► Welcome Screen
