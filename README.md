@@ -3,7 +3,7 @@ I am going to build a messaging/chat app #ui using #flutter that runs both Andro
 
 ### Complete UI Contains
 
-► Splash Screen
+► Splash Screen 
 ► Welcome Screen
 ► Sign in & Sign up
 ► Phone Validation (OTP)
